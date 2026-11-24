@@ -1,0 +1,42 @@
+[
+  {
+    "id": "daily-fresh-250",
+    "sku": "SH-FR-250",
+    "name": "Daily Fresh Shampoo 250ml",
+    "category": "fresh",
+    "size": "250ml",
+    "price": 159,
+    "image": "images/daily-fresh-250.jpg",
+    "description": "แชมพูสูตรสดชื่น ทำความสะอาดเส้นผมอย่างอ่อนโยน เหมาะสำหรับใช้ทุกวัน"
+  },
+  {
+    "id": "daily-fresh-500",
+    "sku": "SH-FR-500",
+    "name": "Daily Fresh Shampoo 500ml",
+    "category": "fresh",
+    "size": "500ml",
+    "price": 259,
+    "image": "images/daily-fresh-500.jpg",
+    "description": "ขนาดใหญ่สำหรับใช้ต่อเนื่อง คุ้มค่าและเหมาะกับการดูแลผมในทุกวัน"
+  },
+  {
+    "id": "moisture-care-250",
+    "sku": "SH-MO-250",
+    "name": "Moisture Care Shampoo 250ml",
+    "category": "moisture",
+    "size": "250ml",
+    "price": 169,
+    "image": "images/moisture-care-250.jpg",
+    "description": "สูตรเพิ่มความชุ่มชื้น ช่วยให้เส้นผมรู้สึกนุ่มและจัดทรงง่าย"
+  },
+  {
+    "id": "moisture-care-500",
+    "sku": "SH-MO-500",
+    "name": "Moisture Care Shampoo 500ml",
+    "category": "moisture",
+    "size": "500ml",
+    "price": 279,
+    "image": "images/moisture-care-500.jpg",
+    "description": "ขนาดใหญ่สำหรับคนที่ต้องการดูแลเส้นผมอย่างต่อเนื่องและประหยัดกว่า"
+  }
+]

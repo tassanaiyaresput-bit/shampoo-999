@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="th"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>สั่งซื้อ | HAIR DAILY</title><link rel="stylesheet" href="style.css"></head>
+<body><header class="site-header"><div class="container header-inner"><a class="logo" href="index.html">HAIR DAILY</a><nav><a href="index.html">หน้าแรก</a><a href="product.html">สินค้า</a><a href="admin.html">จัดการออเดอร์</a></nav></div></header>
+<main><section class="page-head container"><p class="eyebrow">ORDER</p><h1>สั่งซื้อสินค้า</h1><p class="lead">กรอกข้อมูลให้ครบเพื่อให้สามารถหยิบสินค้า แพ็ก และจัดส่งได้ถูกต้อง</p></section><section class="section white"><div class="container narrow"><form id="orderForm" class="form-card">
+<label>ชื่อลูกค้า<input id="customerName" required autocomplete="name"></label>
+<label>เบอร์โทร / Line<input id="contact" required autocomplete="tel" placeholder="08x-xxx-xxxx"></label>
+<label>ที่อยู่จัดส่ง<textarea id="address" rows="4" required placeholder="บ้านเลขที่ ถนน ตำบล/แขวง อำเภอ/เขต จังหวัด รหัสไปรษณีย์"></textarea></label>
+<label>รายการสินค้า<textarea id="items" rows="2" required></textarea></label>
+<label>จำนวนเงินรวม (บาท)<input id="total" inputmode="decimal" required></label>
+<label>หมายเหตุเพิ่มเติม<textarea id="note" rows="2" placeholder="เช่น ฝากวางหน้าบ้าน"></textarea></label>
+<button class="btn solid block" type="submit">ยืนยันสั่งซื้อ</button></form></div></section></main>
+<footer class="footer"><div class="container"><a class="logo" href="index.html">HAIR DAILY</a></div></footer><script src="script.js"></script></body></html>
